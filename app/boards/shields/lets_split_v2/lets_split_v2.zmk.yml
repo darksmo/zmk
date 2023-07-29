@@ -1,0 +1,12 @@
+file_format: "1"
+id: lets_split_v2
+name: Lets Split V2
+type: shield
+url: https://github.com/climbalima/let-s-Split-v2
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - lets_split_v2_left
+  - lets_split_v2_right
